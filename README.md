@@ -38,7 +38,7 @@ To replicate or explore this project:
 For questions, feedback, or collaboration opportunities, please feel free to reach out:
 - Arockia Pauline A
 - Email: arockiapauline2@gmail.com
-- LinkedIn: (6) Arockia Pauline | LinkedIn
+- LinkedIn: [(6) Arockia Pauline | LinkedIn](https://www.linkedin.com/in/arockia-pauline/)
 
 ### Future Improvements
 Potential enhancements for this project include:
