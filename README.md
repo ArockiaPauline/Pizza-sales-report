@@ -1,4 +1,53 @@
-# Pizza-sales-report
+## Pizza Sales Analysis Project
+
+### Overview
+This data analyst portfolio project explores pizza sales data to uncover valuable insights regarding weekly and monthly trends, quantities ordered, and the identification of the best and worst-selling pizzas etc. The project aims to demonstrate proficiency in data analysis using SQL for data manipulation and Power BI for data visualization.
+
+### Data Sources
+The analysis utilizes a dataset sourced from kaagle. This dataset contains comprehensive information on pizza sales, including pizza types, quantities, prices, and dates etc.
+
+### Tools and Technologies
+MS SQL Server
+- **Ms SQL Server**:Ms SQL Server was employed for data extraction, transformation, and analysis, enabling efficient querying of the dataset to derive meaningful insights.
+- **Power BI**: Power BI was utilized for creating interactive and visually appealing reports and dashboards to communicate the analysis results effectively.
+- **Ms Excel** : Microsoft Excel played a crucial role in data preprocessing and cleaning, ensuring the dataset's accuracy and completeness.
+
+
+### Analysis Steps
+1. **Data Preprocessing**: The initial step involved data cleaning and transformation to ensure the dataset's accuracy and completeness.
+2. **Exploratory Data Analysis (EDA)**: Exploratory data analysis was performed to gain insights into the dataset, including summary statistics, data distribution, and identifying potential outliers.
+3. **Weekly and Monthly Trends Analysis**: This section of the analysis focuses on identifying sales trends over different time periods, such as weekly and monthly patterns in pizza orders and revenue.
+4. **Best and Worst Seller Pizza Analysis**: Through careful analysis, we determined the best-selling and worst-selling pizzas based on various criteria, such as quantity sold or revenue generated.
+
+### Visualizations
+Visualizations were created using Power BI to provide a clear and interactive representation of the analysis findings. The Power BI report includes charts, graphs, and tables that facilitate the understanding of trends and pizza performance.
+
+### Key Findings
+Some of the key findings from this analysis include:
+- Identification of the top-selling pizza varieties.
+- Insights into peak ordering times and days of the week.
+- Understanding the impact of pricing strategies on sales.
+
+### How to Use This Project
+To replicate or explore this project:
+1. Access the datasetwhich I have add in the repository.
+2. Follow the SQL queries and analysis steps detailed in this repository.
+3. Download and open the Power BI report to interact with the visualizations and explore the findings.
+
+### Contact Information
+For questions, feedback, or collaboration opportunities, please feel free to reach out:
+- Arockia Pauline A
+- Email: arockiapauline2@gmail.com
+- LinkedIn: (6) Arockia Pauline | LinkedIn
+
+### Future Improvements
+Potential enhancements for this project include:
+- Incorporating additional data sources for a more comprehensive analysis.
+- Implementing machine learning models for sales forecasting.
+- Creating a web-based dashboard for real-time tracking of pizza sales.
+
+
+
 **Problem Statement
 KPI’s Requirement**
 1.	Total Revenue
